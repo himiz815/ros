@@ -8,6 +8,6 @@ number =int(input())
 def cb(message):
 	rospy.loginfo(message.data * number)
 if __name__ == '__main__':
-	rospy.init_node('twice')
+	rospy.init_node('output')
 	sub = rospy.Subscriber('count_up', Int32, cb)
 	rospy.spin()
