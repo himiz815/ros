@@ -1,0 +1,15 @@
+<package format="2">
+	<name>roswork</name>
+  	<version>0.0.0</version>
+  	<description>The roswork package</description>
+	<MODULE_AUTHOR>Ryuichi Ueda and Mizuki Nanba</MODULE_AUTHOR>
+  	<maintainer email="19C1088AB@s.chibakoudai.jp">himiz815</maintainer>
+  	<license>GNUv3.0</license>
+  	<buildtool_depend>catkin</buildtool_depend>
+  	<build_depend>std_msgs</build_depend>
+  	<build_depend>rospy</build_depend>
+  	<build_export_depend>rospy</build_export_depend>
+  	<exec_depend>rospy</exec_depend>
+  	<export></export>
+</package>
+
