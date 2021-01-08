@@ -1,8 +1,7 @@
-# SPDX-License-Identifier: GPL-3.0-only
+PDX-License-Identifier: GPL-3.0-only
 '''
      Copyright (C) 2020  Haruki Shimotori and Ryuichi Ueda. All right reserved.
 '''
-#AUTHOR Ryuichi Ueda
 import rospy
 from std_msgs.msg import Int32
 
