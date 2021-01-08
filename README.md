@@ -1,7 +1,7 @@
 # ros課題
 
 ## 概要
-上田隆一先生のスライド(https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)を参考にしてROSのコードを作成しました。
+上田隆一先生のスライド(https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/)　を参考にし改変してROSのコードを作成しました。
 
 ## 内容
 好きな数値を入力することでその数値ずつプラスされ表示される。
