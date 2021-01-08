@@ -1,4 +1,4 @@
-# ros課題
+# 課題2
 
 ## 概要
 上田隆一先生のスライド(https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/ )を参考にし改変してROSのコードを作成しました。
