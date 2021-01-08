@@ -19,6 +19,18 @@ $ git clone https://github.com/himiz815/ros.git
 ```
 を行い中のrosworkをcatkin_wsの下に置く
 ``` 
+$ cd ~/catkin_ws
+```
+``` 
+$ catkin_make
+```
+``` 
+$ source ~/.bashrc
+```
+``` 
+端末1,端末2$ cd ~/catkin_ws/src/roswork/script 
+```
+``` 
 端末1,端末2$ cd ~/catkin_ws/src/roswork/script 
 ```
 ``` 
