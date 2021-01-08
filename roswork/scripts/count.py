@@ -2,6 +2,7 @@
 '''
      Copyright (C) 2020  Haruki Shimotori and Ryuichi Ueda. All right reserved.
 '''
+#AUTHOR Ryuuichi Ueda
 import rospy
 from std_msgs.msg import Int32
 
