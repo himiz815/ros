@@ -38,5 +38,8 @@ $ git clone https://github.com/himiz815/ros
 ```
 好きな数値を入力する
 
+## 動画
+https://youtu.be/4HaETYS8fyU
+
 ## ライセンス
 [GNU General Public License v3.0](https://github.com/kiyoshirou-kawanabe/Robosys_Devicedriver/blob/main/COPYING)
