@@ -15,7 +15,7 @@ OS:Ubuntu 20.04
 
 ## インストール方法と動かし方 
 ``` 
-$ git clone https://github.com/himiz815/ros
+$ git clone https://github.com/himiz815/ros.git
 ```
 を行い中のrosworkをcatkin_wsの下に置く
 ``` 
