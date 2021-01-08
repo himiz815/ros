@@ -14,7 +14,11 @@ OS:Ubuntu 20.04
 
 
 ## インストール方法と動かし方 
-catkin_ws/src にワークスペースを作る
+catkin_ws/src にワークスペースを作り
+``` 
+$catkin_create_pkg mypkg rospy
+```
+でパッケージを作る
 ``` 
 $ git clone https://github.com/himiz815/ros.git
 ```
